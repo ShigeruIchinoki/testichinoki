@@ -1,0 +1,4 @@
+lauguage: generic
+script:
+  -bash -e ./test.bash
+
